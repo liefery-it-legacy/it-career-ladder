@@ -15,19 +15,21 @@ a need for a technical leader in the team.
 **Expertise in our "core" languages and frameworks**
 * You have deep knowledge of one of our core languages (Ruby, JavaScript, Dart), reaching to its internal workings. You have a solid understanding of at least a second one (Ruby, Javascript, Dart, Elixir).
 * You have deep knowledge of the frameworks we use (Ruby on Rails, React, or Flutter), reaching to their internal workings.
+* You keep on top of the ongoing development of our core languages and frameworks and evaluate how we can best make use of their new
+features
 
 **Expertise in infrastructure and tooling**
 * You have a deep understanding of the core technologies (like the HTTP protocol, relational databases, …) and know them enough to mentor team members
 * You take responsibilities in the support channel and do deployments
 * You drive improvements to our tooling and infrastructure setup.
+* You keep on top of the ongoing development on our core technologies and evaluate how we can best make use of their new features
 
 **Ability to explore and master a new technical topic**
 * You are able to research a new library of substantial size / complexity and integrate it into our application.
 * You can debug a library that we use by analysing its code, open issues and submit PRs.
 * You can perform basic tasks in programming languages that you don't know when
 the situation requires that.
-* You can research a few alternative frameworks and present their in-depth
-comparison to the rest of the team
+* Your are able research and evaluate new technologies efficiently and present their in-depth comparison to the rest of the team.
 
 **Know what else is out there**
 * You are interested in how other companies are solving similar problems and comparing our solutions with theirs.
@@ -45,8 +47,8 @@ patterns and start discussions about them.
 * You can translate a business requirement into a concrete technical solution.
 
 **Managing technical debt**
-* You are able to identify areas of the codebase in need of refactoring and come up with solutions.
-* You are comfortable making judgments about the long-term health of the codebase and prioritizing tasks
+* You regularly and actively identify areas of the codebase in need of refactoring and come up with solutions.
+* You egularly make judgments about the long-term health of the codebase and prioritizing tasks
 
 **Initiate positive change**
 * You point out areas that need improvement and suggest good solutions as a starting point for discussion. You look for the best solution within the team.
@@ -55,6 +57,8 @@ patterns and start discussions about them.
 **Source control**
 * You know how to maintain multiple branches you work on, rebase a branch, squash commits.
 * You can troubleshoot git problems of your colleagues.
+* You have an understanding about git's internal data model, how commits are stored and linked together, how to configure hooks and
+other advanced features.
 
 
 ## 🎯 Self management / Focus
@@ -139,9 +143,11 @@ require multiple small steps to be completed.
 * You communicate progress proactively and express your concerns in case your squad is not on track
 
 **Leading long-running tech-centered projects**
-* You lead tech-centered side-projects that don't fit in our business-driven
-squad-based approach. You set the goals for the project, convince other people
-to help you, organise their work, and your own time.
+* You are able compile convincing arguments or business case calculations to justify and promote long running projects.
+* You identify necessary big, longer running initiatives and promote solving them.
+* You initiate, prepare and lead these initiatives. You set the goals, identify the need for other people to help, organize their work
+and your own time to see the project through to its success.
+
 
 ## 🎓 Teaching / Coaching / Growing
 
@@ -160,12 +166,12 @@ to help you, organise their work, and your own time.
 * You can deliver a presentation / lightning talk at a programming conference
 * You contribute to our engineering blog.
 
-## Leadership
+## 🏃‍♀️ Leadership
 
 **Role model**
 * You are a role model for your colleagues. Your technical achievements inspire
 them to develop, learn from you, and help you in your projects.
 
 **Influencing without managing**
-* You can influence the opinion of your colleagues without having formal authority
-to enforce it.
+* You take responsibility for the engineering quality of our products, our code base and our tooling and you influence our product
+management or other departments by suggesting improvements.
