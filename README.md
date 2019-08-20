@@ -6,17 +6,17 @@ these expectations to be promoted to the next level. It is ok to have a few gaps
 expectations in other areas. By the time a team member progresses from a level towards the next level, they should
 have fulfilled all the expectations of the current level completely.
 
-## Roles
-- [Intern Developer](/engineering-roles/Intern_Developer.md)
-- [Junior Developer 1](/engineering-roles/Junior_Developer_1.md)
-- [Junior Developer 2](/engineering-roles/Junior_Developer_2.md)
-- [Midlevel Developer 1](/engineering-roles/Midlevel_Developer_1.md)
-- [Midlevel Developer 2](/engineering-roles/Midlevel_Developer_2.md)
-- [Senior Developer 1](/engineering-roles/Senior_Developer_1.md)
-- [Senior Developer 2](/engineering-roles/Senior_Developer_2.md)
-- [Principal Developer](/engineering-roles/Principal_Developer.md)
+## Developer Roles
+- [Intern Developer](/developer-roles/Intern_Developer.md)
+- [Junior Developer 1](/developer-roles/Junior_Developer_1.md)
+- [Junior Developer 2](/developer-roles/Junior_Developer_2.md)
+- [Midlevel Developer 1](/developer-roles/Midlevel_Developer_1.md)
+- [Midlevel Developer 2](/developer-roles/Midlevel_Developer_2.md)
+- [Senior Developer 1](/developer-roles/Senior_Developer_1.md)
+- [Senior Developer 2](/developer-roles/Senior_Developer_2.md)
+- [Principal Developer](/developer-roles/Principal_Developer.md)
 
-## Tracks
+### Developer Tracks
 
 ```
                                          
@@ -54,6 +54,11 @@ have fulfilled all the expectations of the current level completely.
    Intern Developer                      
 
 ```
+
+## Product Management / QA Roles
+- [Product Manager 1](/project-management-roles/Product_Manager_1.md)
+- [Product Manager 2](/project-management-roles/Product_Manager_2.md)
+
 
 ## Career ladder evaluations and promotions
 
