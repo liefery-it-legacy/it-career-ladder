@@ -9,7 +9,7 @@
 * You are comfortable creating and specifying UI / UX designs for topics on our roadmap.
 
 **Know the existing product**
-* You are familiar on a detailed level with all main features of our existing software. You also have a good understanding of the lesser used ones.
+* You are familiar on a detailed level with all features of our existing software. You are able to learn how an exiting piece of software works efficiently.
 * You can assist and train our users by answering questions about existing functionality and answer to them whether and how a given task can be performed in our current system.
 
 **Know our users**
@@ -18,10 +18,12 @@
 
 **Build a product vision**
 * You know the reasons and motivations behind our product design decisions and you are actively catching up with your knowledge about past decisions by asking questions about why things are the way they are.
-* You can estimate the business value and the rough development effort of a feature request or bug fix and prioritize them accordingly.
+* You can estimate the business value and the rough development effort of a feature request or bug fix.
+* You actively prioritize our backlog based on input from our executive team and make hard decisions what _not_ to do to keep our product vision focused and clean. For smaller scale decisions (how urgently do wwe need to fix this bug?) you make judment calls on your own.
+* You identify unused product features and suggest them for removal.
 
 **Process & Tooling**
-* You have learned which tools we use for which job and for which communication purpose and you know how to use them.
+* You know and influence which tools we use for at which stage of our process to communicate with stakeholders and engineers. You use them effectively and you help others to do the same.
 * You know and continuously shape and improve the process that a feature takes from the first description of a problem until it is deployed to production.
 
 **Know what else is out there**
@@ -40,7 +42,8 @@
 * You actively participate in development planning meetings and are able to convey the user's context and problem situation as well as how the intended solution fits the problem.
 
 **Estimate and communicate progress and deadlines**
-* You take over the role of a project manager towards management or other departments and you proactively communicate the time required and the status of the current projects regularly throughout the project, especially when things change. 
+* You prioritize and plan features on our roadmap to meet business deadlines. If business deadlines are in conflict with other prioritized requirements you notice these and point them out.
+* You communicate the status of requirements and projects proactively to other involved departments, especially when things change. 
 
 **Proactively detect problems and risks and communicate as well as mitigate them**
 * You keep a keen eye on potential problems, wasted work and any risks to the deliverables. When the risk of missing a delivery target is high, you come up with solutions to reduce the risk or change the scope.
@@ -81,10 +84,9 @@
 ## 🎯 Self management / Focus
 
 **Look for and act upon feedback**
-* When receiving feedback in a PR you react to it, learn from it and adjust your future development style based on it
+* When receiving feedback you react to it, learn from it and adjust your future work style based on it.
 
 **Handling "being stuck" / time management / following through**
-* You are learning when to take a step back and try a different approach vs having to dig deeper and learn more details
 * You realize when you need help and ask your team members
 
 **Self reflection and continuous self improvement. Awareness of own strengths and weaknesses.**
@@ -101,7 +103,7 @@
 * You can write down guidelines in an area that you have more knowledge than others.
 
 **Mentor more junior colleagues**
-* You help out with the internships / traineeships and explain basic programming concepts to newcomers.
+* You help out with the internships / traineeships and explain our software and our domain model to newcomers.
 
 **(bonus) Represent Liefery outside the company (e.g. Conferences)**
 * You contribute to our engineering blog.

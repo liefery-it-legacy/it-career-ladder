@@ -9,7 +9,7 @@
 * You are comfortable creating and specifying basic UI / UX designs for topics on our roadmap.
 
 **Know the existing product**
-* You are familiar with all main features of our existing software. You also have some understanding of the lesser used ones.
+* You are familiar with all main features of our existing software. You also have some understanding of the lesser used ones. You are able to extend your knowledge about your our software works by yourself.
 * You can assist and train our users by answering questions about existing functionality and answer to them whether and how a given task can be performed in our current system.
 
 **Know our users**
@@ -21,7 +21,7 @@
 * You can estimate the business value of a feature request or bug fix and prioritize them accordingly.
 
 **Process & Tooling**
-* You have learned which tools we use for which job and for which communication purpose and you know how to use them.
+* You have learned which tools we use for at which stage of our process to communicate with stakeholders and engineers and you use them effectively.
 * You can describe the process that a feature takes from the first description of a problem until it is deployed to production.
 
 **Know the capabilities of our technology stack**
@@ -37,7 +37,8 @@
 * You actively participate in development planning meetings and are able to convey the user's context and problem situation as well as how the intended solution fits the problem.
 
 **Estimate and communicate progress and deadlines**
-* You take over the role of a project manager towards management or other departments and you proactively communicate the time required and the status of the current projects regularleyh throughout the project, especially when things change. 
+* You prioritize and plan features on our roadmap to meet business deadlines. If business deadlines are in conflict with other prioritized requirements you notice these and point them out.
+* You communicate the status of requirements and projects proactively to other involved departments, especially when things change. 
 
 **Quality Assurance**
 * You perform manual testing on the delivered features and tickets and validate they work as expected.
@@ -71,10 +72,9 @@
 ## 🎯 Self management / Focus
 
 **Look for and act upon feedback**
-* When receiving feedback in a PR you react to it, learn from it and adjust your future development style based on it
+* When receiving feedback you react to it, learn from it and adjust your future work style based on it.
 
 **Handling "being stuck" / time management / following through**
-* You are learning when to take a step back and try a different approach vs having to dig deeper and learn more details
 * You realize when you need help and ask your team members
 
 **Self reflection and continuous self improvement. Awareness of own strengths and weaknesses.**
