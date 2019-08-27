@@ -5,11 +5,12 @@
 
 **Translate a business requirement into a software product or feature**
 * You have a solid understanding of the business domain of our company. You know what the other departments do, what their main processes and the main points of contacts are and what they use our software for. You are beginning to learn the different vocabulary used for domain concepts by both business and tech teams although it's totally fine to sometimes struggle with it.
-* You know how we write user stories or other types of tickets and are able to write tickets of small complexity on your own and you can contribute to medium and larger by helping with story writing or clarifying questions. You are learning what kinds of questions developers have when taking on your tickets and are starting to anticipate them when writing tickets.
+* You know how we write user stories or other types of tickets and are able to write tickets of small complexity on your own and you can contribute to medium and larger ones by helping with story writing or clarifying questions. You are learning what kinds of questions developers have when taking on your tickets and are starting to anticipate them when writing tickets.
+* You are learning how different ways of describing a feature (textual descriptions, outcome tables, wireframes, diagrams, ...) are suited for different types of problems.
 * You are comfortable creating and specifying basic UI / UX designs for topics on our roadmap.
 
 **Know the existing product**
-* You are familiar with all main features of our existing software. You also have some understanding of the lesser used ones. You are able to extend your knowledge about your our software works by yourself.
+* You are familiar with all main features of our existing software. You also have some understanding of the lesser used ones. You are able to extend your knowledge about how our software works by yourself.
 * You can assist and train our users by answering questions about existing functionality and answer to them whether and how a given task can be performed in our current system.
 
 **Know our users**
@@ -86,7 +87,7 @@
 
 **Knowledge sharing**
 * You are able to share information about how our system works with other team members and other departments
-* You give release demos to the rest of the company.
+* You can explain how features of our platform works to our users in a way that's tailored to the audience (e.g. by giving release demos to the rest of the company)
 
 **Mentor more junior colleagues**
 * You can help a more junior colleague resolve a particular problem or finish a given task.
