@@ -7,12 +7,14 @@ expectations in other areas. By the time a team member progresses from a level t
 have fulfilled all the expectations of the current level completely.
 
 ## Roles
+- [Intern Developer](/engineering-roles/Intern_Developer.md)
 - [Junior Developer 1](/engineering-roles/Junior_Developer_1.md)
 - [Junior Developer 2](/engineering-roles/Junior_Developer_2.md)
 - [Midlevel Developer 1](/engineering-roles/Midlevel_Developer_1.md)
 - [Midlevel Developer 2](/engineering-roles/Midlevel_Developer_2.md)
 - [Senior Developer 1](/engineering-roles/Senior_Developer_1.md)
 - [Senior Developer 2](/engineering-roles/Senior_Developer_2.md)
+- [Principal Developer](/engineering-roles/Principal_Developer.md)
 
 ## Career ladder evaluations and promotions
 
