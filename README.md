@@ -16,6 +16,45 @@ have fulfilled all the expectations of the current level completely.
 - [Senior Developer 2](/engineering-roles/Senior_Developer_2.md)
 - [Principal Developer](/engineering-roles/Principal_Developer.md)
 
+## Tracks
+
+```
+                                         
+      Maker Track           Manager Track
+                                         
+                                         
+  Principal Developer         Team Lead  
+          |                      |       
+          |                      |       
+          |                      |       
+  Senior Developer II------------|       
+          |                      |       
+          |                      |       
+          |                      |       
+   Senior Developer I------------|       
+          |                              
+          |                              
+          |                              
+ Midlevel Developer II                   
+          |                              
+          |                              
+          |                              
+ Midlevel Developer I                    
+          |                              
+          |                              
+          |                              
+  Junior Developer II                    
+          |                              
+          |                              
+          |                              
+  Junior Developer I                     
+          |                              
+          |                              
+          |                              
+   Intern Developer                      
+
+```
+
 ## Career ladder evaluations and promotions
 
 ### 1. Starting a conversation with team lead
