@@ -56,8 +56,8 @@ have fulfilled all the expectations of the current level completely.
 ```
 
 ## Product Management / QA Roles
-- [Product Manager 1](/project-management-roles/Product_Manager_1.md)
-- [Product Manager 2](/project-management-roles/Product_Manager_2.md)
+- [Product Manager 1](/product-management-roles/Product_Manager_1.md)
+- [Product Manager 2](/product-management-roles/Product_Manager_2.md)
 
 
 ## Career ladder evaluations and promotions
