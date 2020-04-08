@@ -25,7 +25,7 @@
 * Your PRs are of good quality on first try and require minimal feedback to be excellent.
 * You think of most of the edge cases and include tests for them
 * You often take the performance and security implications of PRs into account
-* You can justify your decisions and understand the tradeoffs between different approaches.
+* You can justify your decisions and understand the trade-offs between different approaches.
 * You can break down a large technical problem into clearly defined tasks.
 
 **Managing technical debt**
@@ -64,11 +64,11 @@
 
 **Help improve our team process**
 * You participate actively in our existing team processes by note-taking, scheduling meetings, and taking on action items from meetings. You document changes in our team process in Don't panic.
-* You offer suggestions to the wishes of other mentioned during a retrospective.
+* You offer suggestions to the wishes of others mentioned during a retrospective.
 * When you are not satisfied with some aspect of our team process you mention it during a retrospective, schedule and lead a meeting to resolve it.
 
 **Interact well with business stakeholders / customers**
-* When a task you're working on benefits from a direct contact with the person requesting the change, you are able to formulate questions, present draft of the implementation and incorporate feedback into your solution.
+* When a task you're working on benefits from a direct contact with the person requesting the change, you are able to formulate questions, present a draft of the implementation and incorporate feedback into your solution.
 * You participate in our support duty. You can identify what the problem is by asking correct questions. You point out work-arounds and clarify any confusion about the behaviour of the system.
 
 **Help others succeed**

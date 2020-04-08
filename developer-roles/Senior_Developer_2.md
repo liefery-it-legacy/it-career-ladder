@@ -24,7 +24,7 @@
 * Your PRs are of very good quality on first try and usually don't require a lot of changes to be excellent.
 * You think of most of the edge cases and include tests for them.
 * You reliably take performance and security implications of PRs into account.
-* You can justify your decisions and articulate the tradeoffs between different approaches.
+* You can justify your decisions and articulate the trade-offs between different approaches.
 * You can translate a business requirement into a concrete technical solution.
 
 **Managing technical debt**
@@ -93,7 +93,7 @@
 * You ask the right questions to explore the important edge cases of the requirement
 * You notice where a new requirement conflicts with existing functionality or does not "fit well" with our software design and you suggest changes to the requirement to make it fit better and easier to implement
 * You build a mental model of the problem and can communicate it to and discuss it with your team members (e.g. through whiteboarding)
-* You can come up with different approaches for technical designs and can judge and explain the tradeoffs
+* You can come up with different approaches for technical designs and can judge and explain the trade-offs
 * You involve your squad members in the discussion and encourage them to come up with solutions
 * You can lead the ideation and design of a feature together with colleagues from tech and non-tech teams
 
@@ -107,7 +107,7 @@
 **Organize a squad and its deliverables**
 * You take over the role of a squad coordinator frequently
 * You organize stand up and planning meetings for your squad
-* You keep track of the current progress of your squad and help your team member to clarify open questions
+* You keep track of the current progress of your squad and help your team members to clarify open questions
 * You work across teams (dev, QA, stakeholder) to ensure new code launches smoothly and user needs are met
 * You also follow the work of other squads. In case another squad is not on track you proactively help finding a solution
 
