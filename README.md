@@ -77,7 +77,7 @@ career level, based on feedback collected from others
 
 ### 4. Promotions
 * When your team-lead thinks you have reached the next level they make a case for it with the other team leads
-* Simon suggests a promotion to the management team
+* Christian suggests a promotion to the management team
 
 ## Working students
 
