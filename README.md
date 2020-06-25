@@ -59,6 +59,10 @@ have fulfilled all the expectations of the current level completely.
 - [Product Manager 1](/product-management-roles/Product_Manager_1.md)
 - [Product Manager 2](/product-management-roles/Product_Manager_2.md)
 
+## Salaries
+
+Our salaries are fixed per level and public within the team. You can view them
+[here](https://github.com/liefery/it-career-ladder-discussions/wiki/Salaries)
 
 ## Career ladder evaluations and promotions
 
